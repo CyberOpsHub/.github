@@ -22,7 +22,7 @@
 ## 🛡️ Ressources
 
 <details>
-<summary><strong>🔍 [Pentest Tools](https://github.com/topics/pentest-tools) - Outils essentiels pour l'audit de sécurité</strong></summary>
+<summary><strong>🛠️ [Pentest Tools](https://github.com/topics/pentest-tools) - Outils essentiels pour l'audit de sécurité</strong></summary>
 
 - [**Security Assessment**](https://github.com/topics/security-assessment)
   - [Scanner de vulnérabilités](https://github.com/topics/vulnerability-scanner)
@@ -195,7 +195,7 @@
   - [Security Scripts](https://github.com/topics/security-scripts)
 </details>
 
-## 🎯 CTF & Challenges
+## 🏆 CTF & Challenges
 
 <details>
 <summary><strong>[CTF & Training] - Ressources d'entraînement</strong></summary>
