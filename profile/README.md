@@ -315,4 +315,5 @@
 
 *Secure with knowledge, hack with ethics* 🛡️
 
+<sub>Fait avec ❤️ par la communauté 42-academy</sub>
 </div>
