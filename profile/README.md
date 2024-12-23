@@ -132,6 +132,7 @@
   - [Analyse de menaces](https://github.com/topics/threat-analysis)
   - [Reporting sécurité](https://github.com/topics/security-reporting)
 </details>
+<br><br>
 
 ## 📚 Documentation
 
@@ -166,6 +167,7 @@
   - [Tableaux de bord](https://github.com/topics/security-dashboards)
   - [Visualisation de données](https://github.com/topics/data-visualization)
 </details>
+<br><br>
 
 ## 🔧 Hardware
 
@@ -190,6 +192,7 @@
   - [Proxmark](https://github.com/topics/proxmark)
   - [DIY Projects](https://github.com/topics/diy-hacking)
 </details>
+<br><br>
 
 ## 🔬 Labs & Environnements
 
@@ -208,6 +211,7 @@
   - [Hack The Box](https://github.com/topics/hackthebox)
   - [OWASP Labs](https://github.com/topics/owasp-lab)
 </details>
+<br><br>
 
 ## 🤖 Automatisation
 
@@ -226,6 +230,7 @@
   - [Automated Defense](https://github.com/topics/automated-defense)
   - [Security Scripts](https://github.com/topics/security-scripts)
 </details>
+<br><br>
 
 ## 🏆 CTF & Challenges
 
@@ -244,6 +249,7 @@
   - [Root-Me](https://github.com/topics/rootme)
   - [PicoCTF](https://github.com/topics/picoctf)
 </details>
+<br><br>
 
 ## 🎓 Apprentissage
 
@@ -268,15 +274,8 @@
 - [Malware development](https://github.com/topics/malware-development)
 - [Red teaming](https://github.com/topics/red-teaming)
 </details>
+<br><br>
 
-
-
-
-
-
-
-
-<br>
 </details>
 
 ## 👨‍💻 Comment Contribuer
