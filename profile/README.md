@@ -116,7 +116,7 @@ Cette organisation regroupe des outils et ressources pour la sécurité informat
 ## 🤝 Contribution
 
 <details>
-<summary><strong>[Guide de Contribution](https://github.com/topics/contributing-guidelines) - Comment participer</strong></summary>
+<summary><strong>[Guide de Contribution] - Comment participer</strong></summary>
 
 1. Fork du repository
 2. Création d'une branche
@@ -141,7 +141,7 @@ Ces outils sont destinés à un usage éthique et légal uniquement. Toute utili
 ## 📫 Contact & Support
 
 <details>
-<summary><strong>[Nous Contacter](https://github.com/topics/contact) - Support et Communauté</strong></summary>
+<summary><strong>[Nous Contacter] - Support et Communauté</strong></summary>
 
 - **GitHub**: [@CyberOpsHub](https://github.com/CyberOpsHub)
 - **Discord**: [CyberOps Community](#)
