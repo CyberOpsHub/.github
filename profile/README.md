@@ -22,8 +22,8 @@ Cette organisation regroupe des outils et ressources pour la sécurité informat
 ## 🛡️ Ressources
 
 <details>
-<summary><strong>🔍 [Pentest Tools] - Outils essentiels pour l'audit de sécurité</strong></summary>
-  
+<summary><strong>🔍 [Pentest Tools](https://github.com/topics/pentest-tools) - Outils essentiels pour l'audit de sécurité</strong></summary>
+
 - [**Security Assessment**](https://github.com/topics/security-assessment)
   - [Scanner de vulnérabilités](https://github.com/topics/vulnerability-scanner)
   - [Tests d'intrusion](https://github.com/topics/penetration-testing)
