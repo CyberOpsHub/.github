@@ -85,7 +85,47 @@
   - [Reporting sécurité](https://github.com/topics/security-reporting)
 </details>
 
-<br>
+## 📚 Documentation
+
+<details>
+<summary><strong>📖 [Documentation Technique] - Guides et références</strong></summary>
+
+- [**Guides Techniques**](https://github.com/topics/security-documentation)
+  - [Procédures d'audit](https://github.com/topics/audit-procedures)
+  - [Méthodologies pentest](https://github.com/topics/pentest-methodology)
+  - [Référentiels sécurité](https://github.com/topics/security-frameworks)
+  - [Best practices](https://github.com/topics/security-practices)
+
+- [**Documentation Matériel**](https://github.com/topics/hardware-hacking)
+  - [Guides d'utilisation](https://github.com/topics/hardware-guides)
+  - [Tutoriels de configuration](https://github.com/topics/hardware-setup)
+  - [Cas d'usage](https://github.com/topics/hardware-usage)
+  - [Personnalisation](https://github.com/topics/hardware-customization)
+</details>
+
+## 🔧 Hardware
+
+<details>
+<summary><strong>⚡ [Hardware Hacking] - Matériel pour pentests</strong></summary>
+
+- [**WiFi & RF**](https://github.com/topics/wifi-hacking)
+  - [Flipper Zero](https://github.com/topics/flipper-zero)
+  - [WiFi Pineapple](https://github.com/topics/wifi-pineapple)
+  - [HackRF](https://github.com/topics/hackrf)
+  - [ESP32/8266](https://github.com/topics/esp-hacking)
+
+- [**USB & HID**](https://github.com/topics/usb-hacking)
+  - [Rubber Ducky](https://github.com/topics/rubber-ducky)
+  - [Bash Bunny](https://github.com/topics/bash-bunny)
+  - [USB Armory](https://github.com/topics/usb-armory)
+  - [O.MG Cable](https://github.com/topics/omg-cable)
+
+- [**Custom Hardware**](https://github.com/topics/custom-hardware)
+  - [Arduino](https://github.com/topics/arduino-hacking)
+  - [Raspberry Pi](https://github.com/topics/raspberry-hacking)
+  - [Proxmark](https://github.com/topics/proxmark)
+  - [DIY Projects](https://github.com/topics/diy-hacking)
+</details>
 
 ## 🎓 Apprentissage
 
@@ -111,8 +151,6 @@
 - [Red teaming](https://github.com/topics/red-teaming)
 </details>
 
-<br>
-
 ## 🤝 Contribution
 
 <details>
@@ -129,8 +167,6 @@
    ```
 4. Push et Pull Request
 </details>
-
-<br>
 
 ## 📫 Contact & Support
 
