@@ -70,6 +70,22 @@
 </details>
 
 <details>
+<summary><strong>🌐 [Blue Team](https://github.com/topics/blue-team) - Défense et monitoring</strong></summary>
+
+- [**SOC & Monitoring**](https://github.com/topics/security-operations)
+  - [SIEM](https://github.com/topics/siem)
+  - [Log Analysis](https://github.com/topics/log-analysis)
+  - [Network Monitoring](https://github.com/topics/network-monitoring)
+  - [Incident Response](https://github.com/topics/incident-response)
+
+- [**Defense Tools**](https://github.com/topics/defense-tools)
+  - [IDS/IPS](https://github.com/topics/intrusion-detection)
+  - [EDR Solutions](https://github.com/topics/endpoint-detection)
+  - [Threat Hunting](https://github.com/topics/threat-hunting)
+  - [Security Hardening](https://github.com/topics/system-hardening)
+</details>
+
+<details>
 <summary><strong>🔒 [Security Research](https://github.com/topics/security-research) - Analyse et investigation</strong></summary>
 
 - [**Malware Analysis**](https://github.com/topics/malware-analysis)
@@ -103,6 +119,22 @@
   - [Personnalisation](https://github.com/topics/hardware-customization)
 </details>
 
+<details>
+<summary><strong>📊 [Reporting](https://github.com/topics/security-reporting) - Documentation et rapports</strong></summary>
+
+- [**Templates & Normes**](https://github.com/topics/report-templates)
+  - [Rapports d'audit](https://github.com/topics/audit-reports)
+  - [Documentation client](https://github.com/topics/client-documentation)
+  - [Présentation des résultats](https://github.com/topics/security-presentations)
+  - [Métriques de sécurité](https://github.com/topics/security-metrics)
+
+- [**Gestion de Projet**](https://github.com/topics/project-management)
+  - [Suivi des vulnérabilités](https://github.com/topics/vulnerability-tracking)
+  - [KPIs sécurité](https://github.com/topics/security-kpis)
+  - [Tableaux de bord](https://github.com/topics/security-dashboards)
+  - [Visualisation de données](https://github.com/topics/data-visualization)
+</details>
+
 ## 🔧 Hardware
 
 <details>
@@ -125,6 +157,60 @@
   - [Raspberry Pi](https://github.com/topics/raspberry-hacking)
   - [Proxmark](https://github.com/topics/proxmark)
   - [DIY Projects](https://github.com/topics/diy-hacking)
+</details>
+
+## 🔬 Labs & Environnements
+
+<details>
+<summary><strong>🧪 [Labs] - Environnements d'apprentissage et de test</strong></summary>
+
+- [**Environnements Virtuels**](https://github.com/topics/security-lab)
+  - [VMs préconfigurées](https://github.com/topics/security-vms)
+  - [Conteneurs Docker](https://github.com/topics/security-containers)
+  - [Infrastructure as Code](https://github.com/topics/security-iac)
+  - [Cloud Labs](https://github.com/topics/cloud-security-lab)
+
+- [**Plateformes d'entrainement**](https://github.com/topics/security-training)
+  - [CTF Platforms](https://github.com/topics/ctf-platforms)
+  - [Vulnhub](https://github.com/topics/vulnhub)
+  - [Hack The Box](https://github.com/topics/hackthebox)
+  - [OWASP Labs](https://github.com/topics/owasp-lab)
+</details>
+
+## 🤖 Automatisation
+
+<details>
+<summary><strong>[Automatisation & DevSecOps] - Scripts et intégration</strong></summary>
+
+- [**Scripts & Outils**](https://github.com/topics/security-automation)
+  - [Scripts d'audit](https://github.com/topics/audit-scripts)
+  - [Automatisation de tests](https://github.com/topics/security-testing)
+  - [Pipeline CI/CD](https://github.com/topics/security-pipeline)
+  - [Orchestration](https://github.com/topics/security-orchestration)
+
+- [**Playbooks & Workflows**](https://github.com/topics/security-playbooks)
+  - [Incident Response](https://github.com/topics/incident-playbooks)
+  - [Security Orchestration](https://github.com/topics/soar)
+  - [Automated Defense](https://github.com/topics/automated-defense)
+  - [Security Scripts](https://github.com/topics/security-scripts)
+</details>
+
+## 🎯 CTF & Challenges
+
+<details>
+<summary><strong>[CTF & Training] - Ressources d'entraînement</strong></summary>
+
+- [**Challenges**](https://github.com/topics/ctf-challenges)
+  - [Write-ups](https://github.com/topics/ctf-writeups)
+  - [Walkthroughs](https://github.com/topics/security-walkthrough)
+  - [Solutions](https://github.com/topics/ctf-solutions)
+  - [Méthodologies](https://github.com/topics/ctf-methodology)
+
+- [**Plateformes**](https://github.com/topics/ctf-platform)
+  - [HackTheBox](https://github.com/topics/hackthebox)
+  - [TryHackMe](https://github.com/topics/tryhackme)
+  - [Root-Me](https://github.com/topics/rootme)
+  - [PicoCTF](https://github.com/topics/picoctf)
 </details>
 
 ## 🎓 Apprentissage
