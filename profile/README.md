@@ -1,119 +1,157 @@
-# CyberOpsHub
+<div align="center">
 
-Bienvenue dans ma collection de ressources et outils dédiés à la cybersécurité, au pentesting, et au hacking éthique.
+# CyberOpsHub ⚡
+---
+<br>
+
+[![Organization](https://img.shields.io/badge/Organization-CyberOpsHub-181717?logo=github)](https://github.com/CyberOpsHub)
+[![Topic](https://img.shields.io/badge/Topic-Security-red?logo=github)](https://github.com/topics/security)
+[![Category](https://img.shields.io/badge/Category-Pentest-blue?logo=github)](https://github.com/topics/pentest)
+
+<br>
+
+*Collection de ressources et outils dédiés à la cybersécurité*
+</div>
+<br>
 
 ## 🎯 Objectif
+Cette organisation regroupe des outils et ressources pour la sécurité informatique et le hacking éthique.
 
-Cette organisation regroupe des outils et ressources pour :
-- Pentesting et audit de sécurité
-- Bug Bounty et recherche de vulnérabilités
-- Compétitions CTF et Hackathons
-- Analyse de sécurité et forensics
-- Formation et apprentissage en cybersécurité
+<br>
 
-## 🛡️ Catégories
+## 🛡️ Ressources
 
-### 🔍 Pentest Tools
-- `#pentest` - Outils de test de pénétration
-- `#vulnerability-scanner` - Scanners de vulnérabilités
-- `#network-security` - Sécurité réseau
-- `#web-security` - Sécurité web
+<details>
+<summary><strong>🔍 Pentest Tools - Outils essentiels pour l'audit de sécurité</strong></summary>
 
-### 🐞 Bug Bounty
-- `#bug-bounty` - Outils pour Bug Bounty
-- `#recon-tools` - Outils de reconnaissance
-- `#automation` - Scripts d'automatisation
-- `#reporting` - Templates et outils de reporting
+- **Security Assessment**
+  - Scanner de vulnérabilités
+  - Tests d'intrusion
+  - Audit de configuration
+  - Analyse de code
 
-### 💻 Red Team
-- `#red-team` - Outils Red Team
-- `#exploit` - Développement d'exploits
-- `#payload` - Création et test de payloads
-- `#post-exploitation` - Outils post-exploitation
+- **Network Security**
+  - Analyse de trafic
+  - Tests d'infrastructure
+  - Sécurité périmétrique
+  - Détection d'intrusion
+</details>
 
-### 🔒 Security Research
-- `#malware-analysis` - Analyse de malware
-- `#reverse-engineering` - Rétro-ingénierie
-- `#forensics` - Investigation numérique
-- `#threat-intel` - Veille sur les menaces
+<details>
+<summary><strong>🐞 Bug Bounty - Recherche et rapport de vulnérabilités</strong></summary>
 
-### 🏆 CTF & Hackathons
-- `#ctf-tools` - Outils pour CTF
-- `#hackathon` - Ressources Hackathon
-- `#writeups` - Write-ups et solutions
-- `#challenges` - Défis et exercices
+- **Reconnaissance Tools**
+  - Enumération de domaines
+  - Scan de ports
+  - Cartographie d'applications
+  - OSINT avancé
 
-## 🔧 Types d'Outils
+- **Report Templates**
+  - Templates standardisés
+  - Bonnes pratiques
+  - Preuves de concept
+  - Impact assessment
+</details>
 
-### 🌐 Réseau
-- Scanners de ports et de vulnérabilités
-- Analyseurs de trafic
-- Outils de pivoting
-- Framework de pentesting réseau
+<details>
+<summary><strong>💻 Red Team - Simulation d'attaques avancées</strong></summary>
 
-### 💻 Web
-- Proxies d'interception
-- Scanners web
-- Outils d'énumération
-- Framework d'exploitation web
+- **Exploit Development**
+  - Recherche de vulnérabilités
+  - Développement de PoC
+  - Tests d'exploitation
+  - Validation de patches
 
-### 📱 Mobile
-- Analyse d'applications mobiles
-- Tests de sécurité iOS/Android
-- Reverse engineering mobile
-- Framework de pentest mobile
+- **Post-Exploitation**
+  - Persistence
+  - Pivoting réseau
+  - Elevation de privilèges
+  - Data exfiltration
+</details>
 
-### 🔐 Crypto & Forensics
-- Outils cryptographiques
-- Analyse de mémoire
-- Récupération de données
-- Investigation numérique
+<details>
+<summary><strong>🔒 Security Research - Analyse et investigation</strong></summary>
 
-## 🎓 Learning Path
+- **Malware Analysis**
+  - Analyse statique
+  - Analyse dynamique
+  - Rétro-ingénierie
+  - Classification de malware
 
-### Débutant
-- Bases du réseau
-- Linux et ligne de commande
-- Scripting (Python, Bash)
-- Concepts de sécurité fondamentaux
+- **Threat Intel**
+  - Veille cybersécurité
+  - Indicateurs de compromission
+  - Analyse de menaces
+  - Reporting sécurité
+</details>
 
-### Intermédiaire
-- Pentesting méthodologique
-- Exploitation web avancée
-- Développement d'exploits
-- Reverse engineering
+<br>
 
-### Avancé
-- Recherche de vulnérabilités
-- Exploitation avancée
+## 🎓 Apprentissage
+
+<details>
+<summary><strong>Parcours de formation - Du débutant à l'expert</strong></summary>
+
+### 📘 Niveau Débutant
+- Fondamentaux réseau
+- Linux essentials
+- Scripting de base
+- Sécurité 101
+
+### 📗 Niveau Intermédiaire  
+- Web security
+- Network pentesting
+- Exploit basics
+- Forensics
+
+### 📕 Niveau Expert
+- Zero-day research
+- Advanced exploitation
 - Malware development
-- Zero-day hunting
+- Red teaming
+</details>
 
-## 🔍 Navigation
-
-Pour trouver des ressources spécifiques :
-1. Utilisez la barre de recherche
-2. Filtrez par topics
-3. Parcourez les catégories
-
-## ⚠️ Avertissement Légal
-
-Ces outils sont fournis à des fins éducatives et de recherche uniquement. L'utilisation de ces outils doit être conforme aux lois en vigueur et avec autorisation explicite. Ne pas utiliser sur des systèmes sans autorisation.
+<br>
 
 ## 🤝 Contribution
 
-Toute contribution constructive est la bienvenue. Pour contribuer :
-1. Fork le projet pertinent
-2. Créez une branche pour votre feature
-3. Soumettez une pull request
+<details>
+<summary><strong>Comment contribuer aux projets</strong></summary>
 
-## 📫 Contact
+1. Fork du repository
+2. Création d'une branche
+   ```bash
+   git checkout -b feature/nouvelle-feature
+   ```
+3. Commit des changements
+   ```bash
+   git commit -m "✨ Ajout de feature"
+   ```
+4. Push et Pull Request
+</details>
 
-Pour toute question ou collaboration :
-- GitHub : [@votre-username]
-- Discord : [votre-discord]
-- Twitter : [@votre-twitter]
+<br>
+
+## ⚠️ Avertissement
+
+Ces outils sont destinés à un usage éthique et légal uniquement. Toute utilisation doit être conforme aux lois et avec autorisation explicite.
+
+<br>
+
+## 📫 Contact & Support
+
+<details>
+<summary><strong>Nous contacter</strong></summary>
+
+- **GitHub**: [@CyberOpsHub](https://github.com/CyberOpsHub)
+- **Discord**: [CyberOps Community](#)
+- **Twitter**: [@CyberOpsHub](#)
+</details>
 
 ---
 
-⚡ Happy Hacking! Utilisez ces outils de manière éthique et responsable.
+<div align="center">
+
+*Secure with knowledge, hack with ethics* 🛡️
+
+</div>
