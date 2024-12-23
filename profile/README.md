@@ -132,9 +132,8 @@ Cette organisation regroupe des outils et ressources pour la sécurité informat
 
 <br>
 
-## ⚠️ Avertissement
-
-Ces outils sont destinés à un usage éthique et légal uniquement. Toute utilisation doit être conforme aux lois et avec autorisation explicite.
+> [!WARNING]  
+> Ces outils sont destinés à un usage éthique et légal uniquement. Toute utilisation doit être conforme aux lois et avec autorisation explicite.
 
 <br>
 
