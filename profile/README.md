@@ -242,34 +242,70 @@
 - [Red teaming](https://github.com/topics/red-teaming)
 </details>
 
-## 🤝 Contribution
+
+
+## 🌟 Commencez l'Aventure
 
 <details>
-<summary><strong>[Guide de Contribution] - Comment participer</strong></summary>
+<summary><strong>1. Rejoignez la communauté</strong></summary>
 
-1. Fork du repository
-2. Création d'une branche
-   ```bash
-   git checkout -b feature/nouvelle-feature
-   ```
-3. Commit des changements
-   ```bash
-   git commit -m "✨ Ajout de feature"
-   ```
-4. Push et Pull Request
+[![Discord](https://img.shields.io/badge/Discord-Vers_le_Cursus_et_l'au_delà-5865F2?logo=discord&logoColor=white)](https://discord.gg/5Ezmt87Suv)
+
 </details>
-
-## 📫 Contact & Support
 
 <details>
-<summary><strong>[Nous Contacter] - Support et Communauté</strong></summary>
+<summary><strong>2. Explorez nos ressources</strong></summary>
 
-- **GitHub**: [@CyberOpsHub](https://github.com/CyberOpsHub)
-- **Discord**: [CyberOps Community](#)
-- **Twitter**: [@CyberOpsHub](#)
+- 📚 Documentation technique
+- 🔧 Outils spécialisés
+- 📖 Guides pratiques
+
 </details>
 
----
+<details>
+<summary><strong>3. Contribuez à l'écosystème</strong></summary>
+
+- Partagez votre expérience
+- Proposez des améliorations
+- Enrichissez la communauté
+
+</details>
+
+
+<br>
+</details>
+
+## 👨‍💻 Comment Contribuer
+
+<details>
+<summary><strong>1. Créez un Fork</strong></summary>
+- Clonez le projet sur votre propre compte GitHub en cliquant sur le bouton "Fork".
+- Assurez-vous que votre fork est à jour avec le projet principal pour éviter les conflits.
+
+</details>
+
+<details>
+<summary><strong>2. Créez une branche pour votre fonctionnalité ou correction</strong></summary>
+- Exécutez `git checkout -b feature/mon-changement` pour créer une nouvelle branche.
+- Faites vos modifications et validez-les.
+
+</details>
+
+<details>
+<summary><strong>3. Testez vos changements</strong></summary>
+- Avant de soumettre une pull request, assurez-vous que tous les tests passent et que votre code est propre et optimisé.
+- Utilisez des outils comme `paco` et `norminette` pour vérifier la conformité aux normes de codage.
+
+</details>
+
+<details>
+<summary><strong>4. Soumettez votre Pull Request</strong></summary>
+- Créez une pull request détaillant vos modifications. Expliquez clairement ce que vous avez ajouté ou corrigé.
+- Soyez ouvert à la discussion et aux suggestions d'amélioration.
+
+</details>
+
+
 
 <div align="center">
 
