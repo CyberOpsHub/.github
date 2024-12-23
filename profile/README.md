@@ -307,6 +307,7 @@
 - Soyez ouvert à la discussion et aux suggestions d'amélioration.
 
 </details>
+<br>
 
 ---
 
