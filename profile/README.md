@@ -15,9 +15,18 @@
 <br>
 
 ## 🎯 Objectif
-Cette organisation regroupe des outils et ressources pour la sécurité informatique et le hacking éthique.
 
 <br>
+<div align="center">
+Cette organisation regroupe des outils et ressources pour la sécurité informatique et le hacking éthique.
+</div>
+
+<br><br>
+
+> [!WARNING]  
+> Ces outils sont destinés à un usage éthique et légal uniquement. Toute utilisation doit être conforme aux lois et avec autorisation explicite.
+
+<br><br>
 
 ## 🛡️ Ressources
 
