@@ -12,15 +12,6 @@
 
 *Collection de ressources et outils dédiés à la cybersécurité*
 </div>
-<br>
-
-## 🎯 Objectif
-
-<br>
-<div align="center">
-Cette organisation regroupe des outils et ressources pour la sécurité informatique et le hacking éthique.
-</div>
-
 <br><br>
 
 > [!WARNING]  
@@ -139,12 +130,7 @@ Cette organisation regroupe des outils et ressources pour la sécurité informat
 4. Push et Pull Request
 </details>
 
-<br><br>
-
-> [!WARNING]  
-> Ces outils sont destinés à un usage éthique et légal uniquement. Toute utilisation doit être conforme aux lois et avec autorisation explicite.
-
-<br><br>
+<br>
 
 ## 📫 Contact & Support
 
