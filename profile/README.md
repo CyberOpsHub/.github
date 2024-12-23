@@ -4,9 +4,14 @@
 ---
 <br>
 
-[![Organization](https://img.shields.io/badge/Organization-CyberOpsHub-181717?logo=github)](https://github.com/CyberOpsHub)
-[![Topic](https://img.shields.io/badge/Topic-Security-red?logo=github)](https://github.com/topics/security)
-[![Category](https://img.shields.io/badge/Category-Pentest-blue?logo=github)](https://github.com/topics/pentest)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Academy-purple?logo=github&logoColor=white)](https://github.com/42-academy/.github/blob/main/profile/README.md)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot_Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-dev_forks_collection-181717?logo=github)](https://github.com/dev-forks-collection)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Projects-181717?logo=github)](https://github.com/404)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Career_Hub-181717?logo=github)](https://github.com/42-Career-Hub)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Learning-181717?logo=github)](https://github.com/42-Learning)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_DevTools-181717?logo=github)](https://github.com/42-DevTools)
+
 
 <br>
 
