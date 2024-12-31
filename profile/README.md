@@ -23,33 +23,6 @@
 
 <br><br>
 
-## 🌟 Commencez l'Aventure
-
-<details>
-<summary><strong>1. Rejoignez la communauté</strong></summary>
-
-[![Discord](https://img.shields.io/badge/Discord-Vers_le_Cursus_et_l'au_delà-5865F2?logo=discord&logoColor=white)](https://discord.gg/5Ezmt87Suv)
-
-</details>
-
-<details>
-<summary><strong>2. Explorez nos ressources</strong></summary>
-
-- 📚 Documentation technique
-- 🔧 Outils spécialisés
-- 📖 Guides pratiques
-
-</details>
-<details>
-<summary><strong>3. Contribuez à l'écosystème</strong></summary>
-
-- Partagez votre expérience
-- Proposez des améliorations
-- Enrichissez la communauté
-
-</details>
-<br><br>
-
 ## 🛡️ Ressources
 
 <details>
